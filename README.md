@@ -1,3 +1,3 @@
 # javascript-git
 
-Curso de font-nd - JavaScript
+Curso de font-end - JavaScript
