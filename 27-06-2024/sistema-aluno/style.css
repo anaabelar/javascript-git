@@ -1,0 +1,39 @@
+body {
+    background: #30a7c5c4;
+}
+    .container {
+        max-width: 400px;
+        border: 3px solid rgb(14, 23, 28);
+        margin: 80px auto;
+        text-align: center;
+        border-radius: 20px;
+        background: rgb(183, 233, 249);
+    }
+
+    form {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    
+    }
+
+    .form-control input {
+        /*Tamanho Altura*/
+        width: 100%;
+        max-width: 250px;
+        /*Efeito navegador*/
+        outline: none;
+    }
+
+    button {
+        /*Tamanho altura*/
+        height: 22px;
+        /*Espaçamento*/
+        margin-left: 10px;
+        /*Cor de fundo*/
+        background: #04beedc4;
+        /*Ponteiro*/
+        color:rgb(6, 78, 97)
+
+    }
+
